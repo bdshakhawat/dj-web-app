@@ -11,7 +11,7 @@ const Typed = () =>
         <div className='w-full flex flex-col md:flex-row gap-4'>
             <div className='w-full md:w-[80%]'>
                 <div className='text-1xl lg:text-2xl xl:text-6xl text-ddl-blue'>
-                    <ReactTyped strings={["Nella musica elettronica credo e faccio a modo mio..."]} typeSpeed={30} />
+                    <ReactTyped strings={["I believe in electronic music and do it my way..."]} typeSpeed={30} />
                 </div>
 
                 <div className='text-2xl lg:text-4xl lg:mt-8 text-white'>
@@ -19,7 +19,7 @@ const Typed = () =>
                         strings={[
                             "Enjoy...",
                             "Feel free...",
-                            "Remember...",
+                            "Become Bindus...",
                             "Be happy...",
 
                         ]}
@@ -49,3 +49,5 @@ const Typed = () =>
 }
 
 export default Typed
+
+

@@ -18,7 +18,7 @@ const Layout = () =>
                 <div className='bg-ddl-pink text-white p-4 h-full flex flex-col gap-y-3'>
 
                     <p className='hidden md:flex py-6 font-semibold'>
-                        🎵 <span className='ml-2'>Listen to my music on</span>
+                        🎵 <span className='ml-2'>Listen to our music on</span>
                     </p>
 
                     <div className="w-full cursor-pointer py-5">

@@ -19,11 +19,11 @@ const Footer = () =>
 
                 <div className='flex flex-col'>
                     <Link href="https://www.youtube.com/watch?v=qygPYJtXt0U&feature=youtu.be" target="_blank" className='py-3 hover:text-ddl-purple'>
-                        <p> Promo Album “SHE SLEEPS” 21.08.20</p>
+                        <p> Promo Album “SHE SLEEPS UNDER OVERBRIDGE” 21.08.20</p>
                     </Link>
 
                     <Link href="https://www.youtube.com/watch?v=RQLoZKaCQfA&feature=youtu.be" target="_blank" className='py-3 hover:text-ddl-purple'>
-                        <p> live set @ Le Vele (Scampia, Naples)</p>
+                        <p> live CONCERT @ HOUSE BUILDING (Uttara, Akash PLAZA)</p>
                     </Link>
 
                 </div>

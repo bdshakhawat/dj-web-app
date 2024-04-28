@@ -16,18 +16,18 @@ const MusicPlayer = () =>
 
     const [songs] = useState( [
         {
-            title: "Brunch Electronik Málaga 2023",
-            artist: "Deborah de Luca",
+            title: "HARDCORE Dj @ SUMON (VAINGALA)",
+            artist: "DJ Sumon",
             src: "./music/malaga-brunch.mp3"
         },
         {
-            title: "DORI ME @ LE VELE (Scampia)",
-            artist: "Deborah de Luca",
+            title: "DASHING DJ @ FAHIM (FATAIALA)",
+            artist: "DJ Fahim",
             src: "./music/DORI ME_ @ LE VELE .mp3"
         },
         {
-            title: "Château de Chambord",
-            artist: "Deborah de Luca",
+            title: "ROMANTIC DJ @ MEHADI (ANGIALA)",
+            artist: "DJ Mehadi",
             src: "./music/ Château de Chambord in France for Cercle.mp3"
         },
     ] )
